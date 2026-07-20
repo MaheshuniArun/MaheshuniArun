@@ -100,7 +100,27 @@ A full-stack booking application that takes users from movie discovery through s
 
 > The linked backend is hosted in a collaborator-owned repository; this README does not claim sole authorship of the project.
 
-### 2. AI Chat Reply Agent
+### 2. MLN Chandra
+
+![Client portfolio](https://img.shields.io/badge/Project-Client%20Portfolio-007CF0?style=flat-square)
+
+A modern developer portfolio that presents full-stack projects, technical skills, professional experience, and contact information in a clean, responsive interface.
+
+- **Highlights:** Responsive portfolio layout, projects and experience showcase, contact and social-profile integration
+- **Stack:** Portfolio website, responsive UI, Firebase Hosting
+- **Link:** [View portfolio](https://mlnchandra.web.app/)
+
+### 3. MintraLoop
+
+![Video chat application](https://img.shields.io/badge/Project-Video%20Chat%20Application-6F42C1?style=flat-square)
+
+A browser-based communication platform for random one-to-one text and video conversations through a simple, responsive chat experience.
+
+- **Highlights:** Random user matching, real-time text and video conversations, responsive browser-based chat interface
+- **Stack:** Random matching, text chat, video chat, real-time communication
+- **Link:** [Open application](https://mintraloop.web.app/)
+
+### 4. AI Chat Reply Agent
 
 ![In progress](https://img.shields.io/badge/Status-In%20Progress-D97706?style=flat-square)
 
@@ -108,13 +128,6 @@ An experimental AI assistant that analyzes previous WhatsApp and Instagram conve
 
 - **Current work:** Chat data processing, context-aware generation, and personalized suggestions
 - **Exploration:** Local model integration, retrieval-based response generation, AI automation, and local LLM testing
-
-### 3. Meltora Treats
-
-A multi-page website for a homemade dessert brand that organizes its menu, gallery, ordering, contact, and admin flows in a responsive interface.
-
-- **Stack:** Astro, TypeScript, Firebase Hosting configuration
-- **Repository:** [MaheshuniArun/meltora](https://github.com/MaheshuniArun/meltora)
 
 ## Training & Education
 
